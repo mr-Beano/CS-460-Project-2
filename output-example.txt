@@ -1,0 +1,19 @@
+-------------------------------------------------------
+Input File Name			: inputs/input2.txt
+CPU Scheduling Alg		: FIFO
+Throughput			: 0.014 processes / ms
+Avg. Turnaround time		: 234.2ms
+Avg. Waiting time in R queue	: 45.6ms
+------------------------------------------------------
+Input File Name			: inputs/input2.txt
+CPU Scheduling Alg		: SJF
+Throughput			: 0.013 processes / ms
+Avg. Turnaround time		: 262.8ms
+Avg. Waiting time in R queue	: 48.8ms
+-------------------------------------------------------
+Input File Name			: inputs/input2.txt
+CPU Scheduling Alg		: PR
+Throughput			: 0.014 processes / ms
+Avg. Turnaround time		: 228.6ms
+Avg. Waiting time in R queue	: 52.4ms
+-------------------------------------------------------
